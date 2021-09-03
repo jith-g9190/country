@@ -1,0 +1,12 @@
+body{
+height: 2000px;
+background-image: url(./images/country.png);
+
+
+}
+.row{
+    margin-top: 21px;
+    border-width: 2px;
+    border-color: black;
+}
+
